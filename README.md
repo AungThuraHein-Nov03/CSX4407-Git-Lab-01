@@ -27,3 +27,5 @@ The local preview is not a production service.
 
 
 Thsi repository demonstrates Git version control, automated website validation, github commands, and delivery through Github Actions.
+
+This project uses feature branches and pull requests to review changes before merging them into the main branch.
